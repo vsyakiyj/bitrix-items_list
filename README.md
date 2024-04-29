@@ -1,2 +1,2 @@
-# bitrix-items_list
-Bitrix Component
+# Bitrix Component
+компонент выводит список товаров вертикально
